@@ -1,57 +1,108 @@
-<h1 align="center">Olá! Eu sou o Ruan </h1>
+<h1 align="center">Olá! Eu sou o Ruan 👋</h1>
 
-<p align="center">
-  <em>Desenvolvedor Backend Junior | Apaixonado por construir soluções escaláveis</em>
+**`Desenvolvedor Backend Junior`**
+
+Sou Ruan Almeida, desenvolvedor Backend Junior apaixonado por construir soluções escaláveis e robustas. Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente na área de tecnologia.
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/ruan-almeida-8a8973256/">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0066CC"
+        />
+    </a>
+    <a href="https://github.com/ruanout1?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/ruanout1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/ruanout1?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/ruanout1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+        />
+    </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ruan-almeida-8a8973256/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="AWS" 
+    title="AWS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+
+<br/>
+<br/>
 
 ---
 
-##  Sobre Mim
-
-Desenvolvedor Backend Junior em formação, focado em criar APIs robustas e sistemas eficientes. Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
-
----
-
-##  Tecnologias
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-      <br><strong>Python</strong>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-      <br><strong>JavaScript</strong>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
-      <br><strong>Node.js</strong>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
-      <br><strong>PostgreSQL</strong>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
-      <br><strong>Docker</strong>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50"/>
-      <br><strong>AWS</strong>
-    </td>
-  </tr>
-</table>
-
----
-
-##  Projetos em Destaque
+### 📂 Projetos em Destaque
 
 | Projeto | Descrição |
 |---------|-----------|
@@ -61,24 +112,40 @@ Desenvolvedor Backend Junior em formação, focado em criar APIs robustas e sist
 
 ---
 
-##  GitHub Stats
+### 📊 Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruanout1&show_icons=true&theme=radical" alt="GitHub Stats"/>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=ruanout1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanout1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanout1&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+<br/>
+<br/>
 
 ---
 
-##  Contato
+### 📫 Contato
 
-- **LinkedIn:** [linkedin.com/in/ruan-almeida-8a8973256](https://www.linkedin.com/in/ruan-almeida-8a8973256/)
-- **GitHub:** [@ruanout1](https://github.com/ruanout1)
-
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/ruan-almeida-8a8973256/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ruanout1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ruanout1&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
