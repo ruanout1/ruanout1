@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Ruan 👋</h1>
+<h1 align="center">Olá! Eu sou o Ruan </h1>
 
 <p align="center">
   <em>Desenvolvedor Backend Junior | Apaixonado por construir soluções escaláveis</em>
@@ -12,13 +12,13 @@
 
 ---
 
-## 🚀 Sobre Mim
+##  Sobre Mim
 
 Desenvolvedor Backend Junior em formação, focado em criar APIs robustas e sistemas eficientes. Estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
 
 ---
 
-## 💻 Tecnologias
+##  Tecnologias
 
 <table>
   <tr>
@@ -51,7 +51,7 @@ Desenvolvedor Backend Junior em formação, focado em criar APIs robustas e sist
 
 ---
 
-## 📂 Projetos em Destaque
+##  Projetos em Destaque
 
 | Projeto | Descrição |
 |---------|-----------|
@@ -61,7 +61,7 @@ Desenvolvedor Backend Junior em formação, focado em criar APIs robustas e sist
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ruanout1&show_icons=true&theme=radical" alt="GitHub Stats"/>
@@ -73,7 +73,7 @@ Desenvolvedor Backend Junior em formação, focado em criar APIs robustas e sist
 
 ---
 
-## 📫 Contato
+##  Contato
 
 - **LinkedIn:** [linkedin.com/in/ruan-almeida-8a8973256](https://www.linkedin.com/in/ruan-almeida-8a8973256/)
 - **GitHub:** [@ruanout1](https://github.com/ruanout1)
