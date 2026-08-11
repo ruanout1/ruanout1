@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Ruan 👋</h1>
+<h1 align="center">Olá! Eu sou o Ruan </h1>
 
 **`Desenvolvedor Backend Junior`**
 
@@ -30,7 +30,7 @@ Sou Ruan Almeida, desenvolvedor Backend Junior apaixonado por construir soluçõ
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -102,7 +102,7 @@ Sou Ruan Almeida, desenvolvedor Backend Junior apaixonado por construir soluçõ
 
 ---
 
-### 📂 Projetos em Destaque
+###  Projetos em Destaque
 
 | Projeto | Descrição |
 |---------|-----------|
@@ -112,7 +112,7 @@ Sou Ruan Almeida, desenvolvedor Backend Junior apaixonado por construir soluçõ
 
 ---
 
-### 📊 Estatísticas
+###  Estatísticas
 
 <p>
   <img 
@@ -136,7 +136,7 @@ Sou Ruan Almeida, desenvolvedor Backend Junior apaixonado por construir soluçõ
 
 ---
 
-### 📫 Contato
+###  Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ruan-almeida-8a8973256/">
