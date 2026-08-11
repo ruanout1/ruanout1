@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Ruan </h1>
+<h1 align="center">Olá! Eu sou o Ruan 👋</h1>
 
 **`Desenvolvedor Backend Junior`**
 
@@ -30,7 +30,7 @@ Sou Ruan Almeida, desenvolvedor Backend Junior apaixonado por construir soluçõ
 
 ---
 
-###  Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -78,7 +78,7 @@ Sou Ruan Almeida, desenvolvedor Backend Junior apaixonado por construir soluçõ
     title="AWS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -102,7 +102,7 @@ Sou Ruan Almeida, desenvolvedor Backend Junior apaixonado por construir soluçõ
 
 ---
 
-###  Projetos em Destaque
+### 📂 Projetos em Destaque
 
 | Projeto | Descrição |
 |---------|-----------|
@@ -112,7 +112,7 @@ Sou Ruan Almeida, desenvolvedor Backend Junior apaixonado por construir soluçõ
 
 ---
 
-###  Estatísticas
+### 📊 Estatísticas
 
 <p>
   <img 
@@ -120,14 +120,14 @@ Sou Ruan Almeida, desenvolvedor Backend Junior apaixonado por construir soluçõ
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ruanout1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=ruanout1&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
 
   <img 
     align="left" 
     alt="Top Languages" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanout1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanout1&theme=tokyonight&layout=compact&langs_count=6" 
   />
 </p>
 
@@ -136,7 +136,7 @@ Sou Ruan Almeida, desenvolvedor Backend Junior apaixonado por construir soluçõ
 
 ---
 
-###  Contato
+### 📫 Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ruan-almeida-8a8973256/">
