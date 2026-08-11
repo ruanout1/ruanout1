@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ruanout1" target="_blank">
+  <a href="https://www.linkedin.com/in/ruan-almeida-8a8973256/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -75,7 +75,7 @@ Desenvolvedor Backend Junior em formação, focado em criar APIs robustas e sist
 
 ## 📫 Contato
 
-- **LinkedIn:** [linkedin.com/in/ruanout1](https://www.linkedin.com/in/ruanout1)
+- **LinkedIn:** [linkedin.com/in/ruan-almeida-8a8973256](https://www.linkedin.com/in/ruan-almeida-8a8973256/)
 - **GitHub:** [@ruanout1](https://github.com/ruanout1)
 
 ---
